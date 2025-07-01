@@ -26,12 +26,10 @@ A simple text-based Hangman game built using Python.
 ---
 
 ## 🧑‍💻 Author
-**Name:** *Your Name Here*  
-**Email:** *your.email@example.com*  
-**GitHub:** [@yourusername](https://github.com/yourusername)
-
+**Name:** *Shubhi Raikwar*
+**Email:** *shubhiraikwar92908@gmail.com*  
+**GitHub:** https://github.com/shubhir03
 ---
 
-## 📎 Note
-More tasks will be added to this repository as the internship progresses.
+
 
